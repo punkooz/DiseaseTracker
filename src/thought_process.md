@@ -22,3 +22,6 @@ Address
 - cName
 - state
 - city
+#Question
+
+https://leetcode.com/discuss/interview-question/1608293/Flipkart-or-onsite-or-Disease-Tracker-Low-level-Design-Machine-coding
